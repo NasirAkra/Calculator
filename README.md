@@ -27,4 +27,4 @@ The **Calculator App** is a simple Android application designed to perform basic
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/username/CalculatorApp.git
+   git clone https://github.com/NasirAkra/CalculatorApp.git
